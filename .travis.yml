@@ -3,7 +3,6 @@ language: php
 env:
     - RUN=phpunit
     - RUN=vendor/bin/phpunit
-    - RUN=vendor/bin/phing
 
 script: ${RUN}
 
