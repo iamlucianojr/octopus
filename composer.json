@@ -9,8 +9,8 @@
             "email": "luciano@lucianojr.com.br",
             "homepage": "http://www.lucianojr.com.br",
             "role": "Developer"
-        },
-    ]
+        }
+    ],
     "autoload": {
         "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
