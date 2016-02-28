@@ -1,8 +1,16 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "luciano-jr/octopus",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "The \"Octopus\" ERP distribution",
+    "authors": [
+        {
+            "name": "Luciano Jr",
+            "email": "luciano@lucianojr.com.br",
+            "homepage": "http://www.lucianojr.com.br",
+            "role": "Developer"
+        },
+    ]
     "autoload": {
         "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
