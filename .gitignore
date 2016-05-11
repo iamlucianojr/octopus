@@ -4,3 +4,4 @@ vendor/
 var/cache/
 var/logs/
 var/sessions/
+database/
